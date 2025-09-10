@@ -6,8 +6,8 @@
 | :---| :--- | :--- | :--- |
 |1| Iterator | 2025/09/06 | TODO:アウトプットしたリンクをはる |
 |2| Adapter | 2025/09/07 | TBD |
-|3| Template Method |  | |
-|4| Factory Method |  | |
+|3| Template Method | 2025/09/10 | |
+|4| Factory Method | 2025/09/10 | |
 |5| Singleton  |  | |
 |6| Prototype |  | |
 |7| Builder |  | |
