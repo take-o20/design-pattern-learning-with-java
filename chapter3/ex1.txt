@@ -1,0 +1,4 @@
+
+public abstract int read() throws IOException
+
+ok
