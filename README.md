@@ -10,7 +10,7 @@
 |4| Factory Method | 2025/09/10 | |
 |5| Singleton  | 2025/09/13  | |
 |6| Prototype | 2025/09/13 | |
-|7| Builder |  | |
+|7| Builder | 2025/09/13 | |
 |8| Abstract Factory |  | |
 |9|Bridge|||
 |10|Strategy|||
