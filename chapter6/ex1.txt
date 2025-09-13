@@ -1,0 +1,37 @@
+回答
+interface Productにdefaultメソッドとして定義する。❌
+
+間違いの原因：
+Productはインターフェースのため実体を持たない。
+そのためthisで参照することはできないから。
+```java
+public interface Product extends Cloneable {
+    ...
+
+    default public Product createCopy() {
+        Product p = null;
+        try {
+            p = (Product) clone(); // this.clone()が呼ばれる
+        } catch (CloneNotSupportedException e) {
+            e.printStackTrace();
+        }
+        return p;
+    }
+}
+```
+
+似たような言い回しパターン。
+
+* インターフェースは状態を持たないから this を参照できない（クラスのようにフィールドやインスタンスを持てないことを強調）
+* インターフェース自身はインスタンス化されないため this を参照できない（インスタンス化不可を強調）
+* インターフェースは契約であってオブジェクトではないから this は存在しない（概念的な説明）
+* this は生成されたオブジェクトを指すが、インターフェースにはその対象が存在しない（this の役割を説明）
+* インターフェースはクラスに実装されて初めてインスタンスを持つので、インターフェース自身の中からは this を使えない（クラスとの関係を強調）
+
+
+解答
+1. ProductインターフェースをProductクラスにして、createCopyメソッドを実装します（Template Methodパターン）
+2. UnderlinePathクラスとMessageBoxクラスの共通のスーパークラスとして、ConcreteProductクラスを定義します。
+ConcreteProductクラスはProductインターフェースを実装するものとし、その中でcreateCopyメソッドを実装します。
+
+

@@ -1,6 +1,5 @@
 package chapter5;
 
-import chapter5.Singleton;
 import chapter5.ex.Triple;
 
 public class Main {
