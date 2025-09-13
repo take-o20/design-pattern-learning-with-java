@@ -11,7 +11,7 @@
 |5| Singleton  | 2025/09/13  | |
 |6| Prototype | 2025/09/13 | |
 |7| Builder | 2025/09/13 | |
-|8| Abstract Factory |  | |
+|8| Abstract Factory | 2025/09/14 | |
 |9|Bridge|||
 |10|Strategy|||
 |11|Composite|||
