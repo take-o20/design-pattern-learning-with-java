@@ -8,8 +8,8 @@
 |2| Adapter | 2025/09/07 | TBD |
 |3| Template Method | 2025/09/10 | |
 |4| Factory Method | 2025/09/10 | |
-|5| Singleton  |  | |
-|6| Prototype |  | |
+|5| Singleton  | 2025/09/13  | |
+|6| Prototype | 2025/09/13 | |
 |7| Builder |  | |
 |8| Abstract Factory |  | |
 |9|Bridge|||
