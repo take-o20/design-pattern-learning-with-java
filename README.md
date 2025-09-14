@@ -12,8 +12,8 @@
 |6| Prototype | 2025/09/13 | |
 |7| Builder | 2025/09/13 | |
 |8| Abstract Factory | 2025/09/14 | |
-|9|Bridge|||
-|10|Strategy|||
+|9|Bridge| 2025/09/14 ||
+|10|Strategy| 2025/09/14 ||
 |11|Composite|||
 |12|Decorator|||
 |13|Visitor|||
