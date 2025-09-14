@@ -14,7 +14,7 @@
 |8| Abstract Factory | 2025/09/14 | |
 |9|Bridge| 2025/09/14 ||
 |10|Strategy| 2025/09/14 ||
-|11|Composite|||
+|11|Composite| 2025/09/14 ||
 |12|Decorator|||
 |13|Visitor|||
 |14|Chain of Responsibility|||
