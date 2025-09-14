@@ -10,11 +10,13 @@ public class PrintBanner extends Print {
 
     @Override
     public void printWeak() {
+        // 委譲している箇所
         banner.showWithParen();
     }
 
     @Override
     public void printStrong() {
+        // 委譲している箇所
         banner.showWithAster();
     }
 }
