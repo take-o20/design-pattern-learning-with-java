@@ -6,5 +6,6 @@
         "editor.formatOnSave": true,
         "editor.formatOnType": true
     },
-    "files.trimTrailingWhitespace": true
+    "files.trimTrailingWhitespace": true,
+    "java.jdt.ls.java.home": "/opt/homebrew/Cellar/openjdk@17/17.0.15/libexec/openjdk.jdk/Contents/Home"
 }
