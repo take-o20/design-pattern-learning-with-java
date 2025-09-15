@@ -15,8 +15,8 @@
 |9|Bridge| 2025/09/14 ||
 |10|Strategy| 2025/09/14 ||
 |11|Composite| 2025/09/14 ||
-|12|Decorator|||
-|13|Visitor|||
+|12|Decorator| 2025/09/14 ||
+|13|Visitor| 2025/09/15 ||
 |14|Chain of Responsibility|||
 |15|Facade|||
 |16|Mediator|||
