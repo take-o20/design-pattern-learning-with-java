@@ -19,7 +19,9 @@ public class Directory extends Entry implements Iterable<Entry> {
 
     @Override
     public int getSize() {
-        return 0;
+        SizeVisitor v = new SizeVisitor();
+        accept(v);
+        return v.getSize();
     }
 
     public Entry add(Entry entry) {

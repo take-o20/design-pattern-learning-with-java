@@ -12,9 +12,7 @@ public class Main {
         rootdir.add(usrdir);
         bindir.add(new File("vi", 10000));
         bindir.add(new File("latex", 20000));
-        SizeVisitor sv = new SizeVisitor();
-        rootdir.accept(sv);
-        System.out.println(sv.getSize());
+        rootdir.accept(new ListVisitor());
 
         System.out.println("Making user entries...");
         Directory yuki = new Directory("yuki");
@@ -28,11 +26,7 @@ public class Main {
         hanako.add(new File("memo.tex", 300));
         tomura.add(new File("game.doc", 400));
         tomura.add(new File("junk.mail", 500));
-        rootdir.accept(new SizeVisitor());
-
-        SizeVisitor sv2 = new SizeVisitor();
-        rootdir.accept(sv2);
-        System.out.println(sv2.getSize());
+        rootdir.accept(new ListVisitor());
     }
 }
 

@@ -33,4 +33,9 @@ for (Entry entry : directory) {
 
 ## 問題13-4
 
-forEachでループできない
+forEachでループできない❌　
+
+解答：
+
+* 拡張for文でコンパイルエラーになる
+* @Override iteratorメソッドでコンパイルエラーになる
