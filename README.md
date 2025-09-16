@@ -17,7 +17,7 @@
 |11|Composite| 2025/09/14 ||
 |12|Decorator| 2025/09/14 ||
 |13|Visitor| 2025/09/15 ||
-|14|Chain of Responsibility|||
+|14|Chain of Responsibility|　2025/09/16 ||
 |15|Facade|||
 |16|Mediator|||
 |17|Observer|||
