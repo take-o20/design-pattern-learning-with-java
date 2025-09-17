@@ -17,10 +17,10 @@
 |11|Composite| 2025/09/14 ||
 |12|Decorator| 2025/09/14 ||
 |13|Visitor| 2025/09/15 ||
-|14|Chain of Responsibility|　2025/09/16 ||
-|15|Facade|||
-|16|Mediator|||
-|17|Observer|||
+|14|Chain of Responsibility| 2025/09/16 ||
+|15|Facade| 2025/09/17 ||
+|16|Mediator| 2025/09/17 ||
+|17|Observer| 2025/09/17 ||
 |18|Memento|||
 |19|State|||
 |20|Flyweight|||
