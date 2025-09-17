@@ -21,7 +21,7 @@
 |15|Facade| 2025/09/17 ||
 |16|Mediator| 2025/09/17 ||
 |17|Observer| 2025/09/17 ||
-|18|Memento|||
+|18|Memento| 2025/09/17 ||
 |19|State|||
 |20|Flyweight|||
 |21|Proxy|||
