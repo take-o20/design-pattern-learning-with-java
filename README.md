@@ -22,8 +22,8 @@
 |16|Mediator| 2025/09/17 ||
 |17|Observer| 2025/09/17 ||
 |18|Memento| 2025/09/17 ||
-|19|State|||
-|20|Flyweight|||
+|19|State| 2025/09/18 ||
+|20|Flyweight| 2025/09/19 ||
 |21|Proxy|||
 |22|Command|||
 |23|Interpreter|||
