@@ -25,5 +25,5 @@
 |19|State| 2025/09/18 ||
 |20|Flyweight| 2025/09/19 ||
 |21|Proxy| 2025/09/20 ||
-|22|Command|||
+|22|Command| 2025/09/20 ||
 |23|Interpreter|||
